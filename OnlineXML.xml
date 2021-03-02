@@ -26,8 +26,6 @@
   </record>
   <record>
     <Question>Which number is bigger? (XML)</Question>
-	   <Image>https://homepages.cae.wisc.edu/~ece533/images/airplane.png</Image>
-	<Video>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</Video>
     <Answers>
       <Answer correct="true">1+1</Answer>
       <Answer correct="false">1x1</Answer>
@@ -39,8 +37,6 @@
   </record>
 <record>
 	<Question>What does the cow say? (XML)</Question>
-	 <Image>https://homepages.cae.wisc.edu/~ece533/images/airplane.png</Image>
-	<Video>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</Video>
 	<Answers>
 	  <Answer correct="true">Moo</Answer>
 	  <Answer correct="false">Meow</Answer>
