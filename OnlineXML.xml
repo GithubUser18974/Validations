@@ -12,9 +12,9 @@
     <Time>8</Time>
   </record>
   <record>
-    <Question> ﺐﻳﺎﺒﺤﻟﺍ ﺰﻋﺎﺑ ﻼﻫﺃ ﺎﻳ? (XML)</Question>
-    <Image>https://homepages.cae.wisc.edu/~ece533/images/airplane.png</Image>
-	<Video>http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</Video>
+    <Question>Which animal is bigger? (XML)</Question>
+    <Image></Image>
+	<Video></Video>
     <Answers>
       <Answer correct="true">Elephant</Answer>
       <Answer correct="false">Mouse</Answer>
