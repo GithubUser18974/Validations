@@ -13,7 +13,7 @@
   </record>
   <record>
     <Question>Which animal is bigger? (XML)</Question>
-    <Image></Image>
+    <Image>https://homepages.cae.wisc.edu/~ece533/images/boat.png</Image>
 	<Video></Video>
     <Answers>
       <Answer correct="true">Elephant</Answer>
